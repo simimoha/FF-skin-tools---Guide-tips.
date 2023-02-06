@@ -43,7 +43,7 @@
     "content1": [
       {
         "ordered": "text_image",
-        "color": "#f56342",
+        "color": "#000000",
         "style": "italic",
         "gravity": "left",
         "left": "10",
@@ -57,7 +57,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#f56342",
+        "color": "#000000",
         "style": "italic",
         "gravity": "left",
         "left": "12",
@@ -71,7 +71,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#f56342",
+        "color": "#000000",
         "style": "italic",
         "gravity": "left",
         "left": "12",
@@ -85,7 +85,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#f56342",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "12",
@@ -103,7 +103,7 @@
     "content2": [
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -117,7 +117,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -131,7 +131,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -145,7 +145,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -162,7 +162,7 @@
     "content3": [
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -176,7 +176,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -190,7 +190,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -204,7 +204,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "11",
@@ -222,7 +222,7 @@
     "content4": [
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "left",
         "left": "10",
@@ -236,7 +236,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -250,7 +250,7 @@
       },
       {
         "ordered": "text_image",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
@@ -264,7 +264,7 @@
       },
       {
         "ordered": "image_text",
-        "color": "#2596be",
+        "color": "#000000",
         "style": "italic",
         "gravity": "center",
         "left": "10",
